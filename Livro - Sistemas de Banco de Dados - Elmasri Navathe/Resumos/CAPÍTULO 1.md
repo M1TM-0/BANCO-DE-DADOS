@@ -1,9 +1,5 @@
 # Capítulo 1 — Bancos de Dados e Usuários de Banco de Dados
 
----
-
-## PARTE 1 — CONCEITOS ESSENCIAIS PARA MEMORIZAR
-
 ### Definições-chave
 - **Dados**: fatos conhecidos que podem ser registrados e que possuem significado implícito.
 - **Banco de dados**: coleção de dados relacionados, com um significado implícito.
