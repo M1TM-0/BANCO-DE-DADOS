@@ -113,7 +113,7 @@ A arquitetura de n camadas divide a lógica da aplicação em várias camadas ou
 
 ## Banco de dados de uma biblioteca
 
-Os CPFs abaixo são valores fictícios de teste, usados apenas para ilustrar o formato e a restrição de unicidade. Eles não são CPFs reais validados. Os valores `—` nas colunas ISBN e editora indicam informações ainda não preenchidas; em uma implementação do banco, devem ser representadas como valores ausentes (`NULL`), e não como o caractere `—`.
+Os CPFs abaixo são valores fictícios de teste, usados apenas para ilustrar o formato e a restrição de unicidade. Eles não são CPFs reais validados. Os valores `—` nas colunas indicam informações ainda não preenchidas; em uma implementação do banco, devem ser representadas como valores ausentes (`NULL`), e não como o caractere `—`.
 
 **CAD_CLIENTE**
 
